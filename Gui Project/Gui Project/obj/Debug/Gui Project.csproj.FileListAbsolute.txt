@@ -1,0 +1,16 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\bin\Debug\Gui Project.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\bin\Debug\Gui Project.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\bin\Debug\Gui Project.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\bin\Debug\FontAwesome.Sharp.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui Project.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui_Project.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui_Project.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui Project.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui Project.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui Project.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui_Project.Forms.Form2.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui_Project.Forms.Form3.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui_Project.Forms.Form4.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui_Project.Forms.Form5.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui_Project.Forms.Form6.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Gui Project\Gui Project\obj\Debug\Gui_Project.Forms.Form7.resources
